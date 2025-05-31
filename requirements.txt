@@ -1,0 +1,10 @@
+notebook
+jupyter
+pandas
+matplotlib
+requests
+beautifulsoup4
+torch
+transformers
+tqdm
+scikit-learn
